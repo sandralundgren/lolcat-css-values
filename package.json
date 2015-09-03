@@ -1,0 +1,25 @@
+{
+  "name": "lolcat-css-values",
+  "version": "1.0.0",
+  "description": "Lolcat CSS Values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandralundgren/lolcat-css-values.git"
+  },
+  "keywords": [
+    "css",
+    "postcss",
+    "lolcat",
+    "lolspeak"
+  ],
+  "author": "Sandra Lundgren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandralundgren/lolcat-css-values/issues"
+  },
+  "homepage": "https://github.com/sandralundgren/lolcat-css-values#readme"
+}
