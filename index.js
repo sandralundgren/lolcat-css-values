@@ -6,7 +6,6 @@ module.exports = {
   'fixed': 'fixd',
   'relative': 'relativ',
   'right': 'rite',
-
   // Colors
   'aliceblue': 'aliceblu',
   'antiquewhite': 'antiquewite',
@@ -35,5 +34,5 @@ module.exports = {
   'whitesmoke': 'witesmoke',
   'blue': 'blu',
   'lavender': 'lavendr',
-  'white': 'wite',
+  'white': 'wite'
 }

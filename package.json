@@ -1,6 +1,6 @@
 {
   "name": "lolcat-css-values",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lolcat CSS Values",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,12 @@
     "lolspeak"
   ],
   "author": "Sandra Lundgren",
+  "contributors": [
+    {
+      "name": "Johnie Hjelm",
+      "email": "johnie.hjelm@symbio.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sandralundgren/lolcat-css-values/issues"
