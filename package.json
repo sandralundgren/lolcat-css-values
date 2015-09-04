@@ -1,6 +1,6 @@
 {
   "name": "lolcat-css-values",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lolcat CSS Values",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/sandralundgren/lolcat-css-values/issues"
   },
-  "homepage": "https://github.com/sandralundgren/lolcat-css-values#readme"
+  "homepage": "https://github.com/sandralundgren/lolcat-css-values#readme",
+  "dependencies": {}
 }
