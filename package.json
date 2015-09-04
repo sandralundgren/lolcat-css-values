@@ -1,6 +1,6 @@
 {
   "name": "lolcat-css-values",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lolcat CSS Values",
   "main": "index.js",
   "scripts": {
